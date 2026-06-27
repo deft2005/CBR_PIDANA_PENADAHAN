@@ -84,6 +84,6 @@ The project generates:
 
 ## Author
 
-Amanda Rachma Wijayanti
+Ananda Deftafio Budi Pratama - 2023
 Informatics
 Universitas Muhammadiyah Malang
